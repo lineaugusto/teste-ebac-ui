@@ -1,0 +1,23 @@
+[
+    {
+        "nomeProduto": "Aether Gym Pant",
+        "tamanho":"36",
+        "cor":"Brown",
+        "quantidade":2
+    },
+
+    {
+        "nomeProduto": "Apollo Running Short",
+        "tamanho":"33",
+        "cor":"Black",
+        "quantidade":3
+    },
+
+    {
+        "nomeProduto": "Josie Yoga Jacket",
+        "tamanho":"L",
+        "cor":"Blue",
+        "quantidade":2
+    }
+
+]
